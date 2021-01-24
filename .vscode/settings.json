@@ -1,0 +1,13 @@
+{
+  "editor.tokenColorCustomizations": null,
+  "editor.semanticTokenColorCustomizations": null,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.fontFamily": "'Operator Mono', 'Dank Mono', 'Cascadia Code', Menlo",
+  "editor.fontWeight": "normal",
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontWeightBold": "bold",
+  "editor.fontSize": 17,
+  "terminal.integrated.fontSize": 16,
+  "editor.fontLigatures": null,
+  "editor.formatOnSave": true
+}
